@@ -1,0 +1,12 @@
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.exe.config
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.exe
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.pdb
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.csprojResolveAssemblyReference.cache
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.exe
+c:\users\tpohling\documents\visual studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.pdb
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.exe.config
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.exe
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.pdb
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.exe
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\bin\Debug\LINQ.cs.pdb
+D:\Visual Studio 2015\Projects\LINQ.cs\LINQ.cs\obj\Debug\LINQ.cs.csprojResolveAssemblyReference.cache
